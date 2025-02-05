@@ -1,0 +1,19 @@
+.title {
+    font-size: 42px;
+    font-weight: bold;
+    color: #333;
+    text-align: center;
+    margin: 20px auto;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.container {
+    text-align: center;
+}
+
+ul {
+    font-size: 22px;
+    display: inline-block;
+    text-align: left;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif 
+}
